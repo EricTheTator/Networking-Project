@@ -1,0 +1,1 @@
+{"runId":"344","algo":"ns3::TcpVegas","bwMbps":1,"rttMs":50,"bufferBdpMult":4,"nFlows":1,"simSec":60,"warmupSec":5,"queueBytes":25000,"totalThroughputMbps":0,"perFlowThroughputMbps":[0],"meanDelayMs":0,"p95DelayMs":0,"lossRate":1,"jainFairness":0}

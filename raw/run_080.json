@@ -1,0 +1,1 @@
+{"runId":"080","algo":"ns3::TcpBbr","bwMbps":100,"rttMs":10,"bufferBdpMult":4,"nFlows":1,"simSec":60,"warmupSec":5,"queueBytes":500000,"totalThroughputMbps":0,"perFlowThroughputMbps":[0],"meanDelayMs":0,"p95DelayMs":0,"lossRate":1,"jainFairness":0}

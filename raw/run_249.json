@@ -1,0 +1,1 @@
+{"runId":"249","algo":"ns3::TcpNewReno","bwMbps":1,"rttMs":150,"bufferBdpMult":4,"nFlows":2,"simSec":60,"warmupSec":5,"queueBytes":75000,"totalThroughputMbps":0,"perFlowThroughputMbps":[0,0],"meanDelayMs":0,"p95DelayMs":0,"lossRate":1,"jainFairness":0}

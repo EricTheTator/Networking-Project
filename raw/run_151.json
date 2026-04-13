@@ -1,0 +1,1 @@
+{"runId":"151","algo":"ns3::TcpCubic","bwMbps":10,"rttMs":10,"bufferBdpMult":1,"nFlows":32,"simSec":60,"warmupSec":5,"queueBytes":12500,"totalThroughputMbps":0,"perFlowThroughputMbps":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"meanDelayMs":0,"p95DelayMs":0,"lossRate":1,"jainFairness":0}
